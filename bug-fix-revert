@@ -1,0 +1,4 @@
+curl.exe -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10938 | grep -E '"number"|"full_name"'
+  "number": 10938,
+      "full_name": "sneha12393/mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
