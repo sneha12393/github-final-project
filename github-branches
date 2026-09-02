@@ -1,0 +1,6 @@
+git branch -a -vv
+* bug-fix-typo                f6995f1 [origin/bug-fix-typo: ahead 1] Add PR verification
+  main                        c8eba0f [origin/main] Fix typo
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo c8eba0f Fix typo
+  remotes/origin/main         c8eba0f Fix typo
