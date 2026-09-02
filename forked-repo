@@ -1,0 +1,7 @@
+curl.exe -s https://api.github.com/repos/sneha12393/mcino-Introduction-to-Git-and-GitHub | grep -E '"fork"|"full_name"'
+  "full_name": "sneha12393/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
