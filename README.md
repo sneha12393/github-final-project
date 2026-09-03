@@ -15,3 +15,4 @@ A calculator that calculates the simple interest given the principal amount, ann
 simple interest = p*t*r
 
 _© 2022 XYZ, Inc._
+This is a fix from a new branch to raise a PR.
